@@ -1,8 +1,7 @@
-<h2>Hi! I'm Max.<h2>
+### Hi! I'm Max.
   
- I am a student of School 21.
-  
- Currently I'm looking for an internship in Java Back-End development team.<h4>
+##### I am a student of School 21.
+##### Currently I'm looking for an internship in Java Back-End development team.<h4>
 
 <!--
 **tendyrir/tendyrir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
